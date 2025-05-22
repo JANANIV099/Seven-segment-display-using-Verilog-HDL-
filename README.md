@@ -68,7 +68,8 @@ endmodule
 ```
 ## Simulated Output
 
-![Screenshot 2025-03-17 164252](https://github.com/user-attachments/assets/157221b9-7f5a-4516-99fe-f7fdf30e7c5a)
+![image](https://github.com/user-attachments/assets/59aa3e64-7d6c-4e19-bbcc-84d952af5220)
+
 
 
 
@@ -111,6 +112,7 @@ initial begin
 end
 
 endmodule
+```
 output:![Screenshot 2025-03-17 164914](https://github.com/user-attachments/assets/0bdb99a9-1672-4f43-8c9d-35c783fc79df)
 
 
